@@ -1,0 +1,3 @@
+Example prompts for agents.
+- What is the financial performance of Tesla?
+- Get recent news about AI startups.
